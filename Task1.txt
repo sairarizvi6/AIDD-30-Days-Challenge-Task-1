@@ -1,0 +1,41 @@
+Q1: What does AI-Driven Development mean to you?
+In my opinion,AI-Driven Development means learning and building software with the help of 
+powerful AI tools instead of doing everything manually.It feels like having an intelligent 
+partner who can write code,fix bugs,explain errors and help me learn faster.
+As a student, AIDD removes fear and confusion.I don not get stuck for hours on small 
+issues anymore.AI guides me,suggests solutions and lets me focus on understanding concepts 
+not memorizing syntax.
+It also gives me confidence that even if I am still learning.
+I can create real projects,apps and tools that used to take professionals years to build. 
+For me,AIDD is a new way of learning,thinking and building where AI helps me grow instead of 
+replacing me.
+
+Q2: How do you see the future of Human–AI Collaboration in software development?
+I think the future will be a strong partnership between humans and AI. 
+AI will do the heavy technical work writing code fast,generating features and testing 
+software while humans will focus on clear thinking,planning,creativity and decision making.
+In the future developers will not be just “coders.” They will become AI collaborators 
+who guide agents,check outputs,give instructions and design smart solutions. Even students 
+like me will be able to build professional level applications with the help of AI agents.
+AI will bring speed but humans will bring judgment and understanding. 
+Together both will produce better,cleaner and smarter software.
+So for me,the future is not humans vs AI but humans + AI working as one team.
+
+MCQs — Correct Answers
+1️⃣ What is the main purpose of the AI-Native Era?
+✔ b) Empower developers through AI tools.
+
+2️⃣ What defines an AI-driven developer?
+✔ b) Creates context-aware prompts.
+
+3️⃣ What does “AIDD” stand for?
+✔ b) AI-Driven Development
+
+4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
+✔ b) Evaluating and improving AI outputs
+
+5️⃣ What should developers focus on in the AI era?
+✔ b) Building reasoning + evaluation skills
+
+
+
